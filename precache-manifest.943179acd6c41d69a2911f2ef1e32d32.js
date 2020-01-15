@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb8a1638e9287b884719689a3741b7dc",
+    "revision": "62d61bedcf716167852b3a65149bec8d",
     "url": "/forms-challenge-architecture/index.html"
   },
   {
-    "revision": "f406764a17812c62ecd1",
-    "url": "/forms-challenge-architecture/static/css/main.9c649ee0.chunk.css"
+    "revision": "5f88572cc53b1c6d12df",
+    "url": "/forms-challenge-architecture/static/css/main.a40c017f.chunk.css"
   },
   {
     "revision": "9934798a2e21e344eb83",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/forms-challenge-architecture/static/js/2.8d26bf71.chunk.js.LICENSE"
   },
   {
-    "revision": "f406764a17812c62ecd1",
-    "url": "/forms-challenge-architecture/static/js/main.09cf11fa.chunk.js"
+    "revision": "5f88572cc53b1c6d12df",
+    "url": "/forms-challenge-architecture/static/js/main.5b0bc585.chunk.js"
   },
   {
     "revision": "1a9ef69b3eeb1123a826",
     "url": "/forms-challenge-architecture/static/js/runtime-main.684bf369.js"
   },
   {
-    "revision": "6fdf0ae0f9fb0cf1166f805d18dca950",
-    "url": "/forms-challenge-architecture/static/media/airplane.6fdf0ae0.jpg"
+    "revision": "70248d285766f0eac6eefd69c4ae0140",
+    "url": "/forms-challenge-architecture/static/media/airplane.70248d28.webp"
   }
 ]);
